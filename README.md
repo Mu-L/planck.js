@@ -19,3 +19,11 @@ Planck.js is JavaScript/TypeScript rewrite of Box2D physics engine for cross-pla
 
 #### [Report Issues](https://github.com/piqnt/planck.js/issues)
 To speed up resolving issues, please provide [testbed](https://piqnt.com/planck.js/docs/testbed) code to reproduce the issue.
+
+---
+
+### Sponsors
+
+<a href="https://link.piqnt.com/link/qripcgt9t0iw">
+  <img width="80" height="80" src="https://link.piqnt.com/img/qripcgt9t0iw" />
+</a>
